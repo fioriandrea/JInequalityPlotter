@@ -11,4 +11,4 @@ The only dependencies for this project are [mXparser](http://mathparser.org/) an
 
 ## Examples
 
-![y < sin(x) and y < y^3](./example_images/example1)
+![y < sin(x) and y < y^3](example_images/example1)
